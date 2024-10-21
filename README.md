@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,selenium,rest,nodejs,postman,git,postgres,mysql,github,aws,css,docker,figma,linux,md,react,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,js,selenium,nodejs,postman,git,postgres,mysql,github,aws,docker,figma,linux,md,react,vscode&perline=14" />
   </a>
 </p>
 
@@ -39,5 +39,5 @@ Here are some ideas to get you started:
 
 <!--icons and links-->
 <p align="center">
-<a href="www.linkedin.com/in/benjaminmtzrojas" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a> 
+<a href="[www.linkedin.com/in/benjaminmtzrojas](https://www.linkedin.com/in/benjaminmtzrojas/)" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50"/></a>
 </p>
