@@ -1,5 +1,3 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 ## Hi there 👋, I'm Benjamin Martínez
 
 <!--
@@ -42,6 +40,4 @@ Here are some ideas to get you started:
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/benjaminmtzrojas/?locale=en_US" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50"/></a>
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="benjaminmtzrojas" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://mx.linkedin.com/in/benjaminmtzrojas?trk=profile-badge">Josué Benjamín Martínez Rojas</a></div>
-              
 </p>
